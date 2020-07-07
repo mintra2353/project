@@ -19,7 +19,9 @@
             </nuxt-link>
           </div>
           <div class="my-2">
+            <nuxt-link to="/activity/flag">
             <v-btn color="error" dark large>กิจกรรมวิชาชีพ</v-btn>
+            </nuxt-link>
           </div>
           <div class="my-2">
             <nuxt-link to="/#">
