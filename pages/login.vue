@@ -1,5 +1,6 @@
 <template>
-   <v-card>
+    <center>
+   <v-card width="400" color="#FF6347">
      <v-card-title>
        <h1>Login</h1>
      </v-card-title>
@@ -25,6 +26,7 @@
        <v-btn color="info">LOGIN</v-btn>
     </v-card-actions>  
    </v-card>
+   </center>
 </template>
 <script>
 export default {
