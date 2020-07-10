@@ -8,13 +8,11 @@
          <v-text-field label="Username"
           prepend-icon="mdi-account-circle"
           />
-       </v-form>
-     </v-card-text>
-     <v-card-text>
-       <v-form>
-         <v-text-field label="Password" 
-          prepend-icon="lock" append-icon="visibility_off"
-         />
+          <v-text-field
+            type="Password"
+            label="Password"
+            prepend-icon="lock" append-icon="visibility_off"
+            />
        </v-form>
      </v-card-text>
      <v-card-actions>
