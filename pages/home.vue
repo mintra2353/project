@@ -8,7 +8,7 @@
 
     <v-container>
       <v-row dense>
-        <v-col cols="12">
+                <v-col cols="12">
           <v-card
             color="#385F73"
             dark
